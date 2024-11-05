@@ -3,6 +3,7 @@
 **Texnologiyalar:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Django](https://link_to_your_gif.com/django.gif)
 
 ![Sherzod Akramovning GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=SherzodAkramov&show_icons=true&theme=radical)
 
